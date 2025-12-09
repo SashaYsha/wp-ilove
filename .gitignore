@@ -1,0 +1,13 @@
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/wp-content/themes/*
+!/wp-content/themes/my2025-theme/
+wp-config.php
+.htaccess
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/*.log
+/.vscode/
+node_modules/
