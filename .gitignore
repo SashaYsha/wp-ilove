@@ -49,3 +49,7 @@ wp-config.php
 
 # IDE Stack
 /.idea
+
+# Тяжёлые плагины — ставятся из админки
+/wp-content/plugins/elementor/
+/wp-content/plugins/akismet/
